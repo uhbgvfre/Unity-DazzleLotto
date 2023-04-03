@@ -1,6 +1,6 @@
 # Unity-DazzleLotto
 Draw number lotto program.
-- [Project in artstation(vedio)](https://www.artstation.com/artwork/L2KzZ5)
+- [Project in artstation(video)](https://www.artstation.com/artwork/L2KzZ5)
 
 ### Demo(PC)
 - Download `DazzleLotto (PC_Build).zip` and unzip it.
